@@ -29,6 +29,7 @@ Estrutura do Projeto
 Mudanças que ocorreram do Astah para o código:
 
 - StatusPacote se tornou StatusPack, e se tornou um enum, e não mais um diagrama de classes
+- Veiculo é Abstract
 
 
 
@@ -51,5 +52,5 @@ Para rodar o projeto, execute a classe:
 Diagrama Astah
 
 
-!\[Diagrama](docs/Astah\_Projeto\_CP2.png)
+!\[Diagrama](https://github.com/bentodonato/cp2_logistica-poo-java/blob/main/POO/docs/Astah_Projeto_CP2.png)
 
